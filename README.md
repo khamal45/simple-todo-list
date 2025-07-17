@@ -8,13 +8,13 @@ Sebelum memulai instalasi, pastikan Anda telah memenuhi prasyarat berikut:
 -   Composer terinstal di sistem Anda
 -   Database (MySQL, PostgreSQL, SQLite, dll.) telah disiapkan
 -   Ekstensi PHP berikut telah diaktifkan:
-    curl
-    fileinfo
-    gd
-    mbstring
-    openssl
-    pdo_mysql
-    zip
+    curl,
+    fileinfo,
+    gd,
+    mbstring,
+    openssl,
+    pdo_mysql,
+    zip,
 
 ## Langkah-langkah Instalasi
 
