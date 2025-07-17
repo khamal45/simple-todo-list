@@ -21,12 +21,12 @@ Sebelum memulai instalasi, pastikan Anda telah memenuhi prasyarat berikut:
 1. **Clone Repository**
    Buka terminal dan jalankan perintah berikut untuk meng-clone repository:
     ```bash
-    git clone https://github.com/khamal45/simple-todo-list
+    git clone https://github.com/khamal45/Task_Manager
     ```
 2. **Masuk ke Direktori Proyek**
    Pindah ke direktori proyek yang telah di-clone:
     ```bash
-    cd simple-todo-list
+    cd Task_Manager
     ```
 3. **Instalasi Dependensi**
    Jalankan perintah berikut untuk menginstal dependensi menggunakan Composer:
